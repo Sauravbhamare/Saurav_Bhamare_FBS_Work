@@ -8,4 +8,4 @@ def palindrome(limit):
 limit = int(input("Enter limit:"))
 gen = palindrome(limit)
 for num in gen:
-    print(num)    
+    print(num)   
